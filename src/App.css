@@ -20,6 +20,7 @@ html {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  height: 100vh;
 }
 
 .headding {
@@ -33,7 +34,7 @@ html {
   color: #fff;
   font-weight: 800;
   text-align: center;
-  padding: 81px;
+ padding: 81px;
 }
 
 .hero_content {
@@ -88,7 +89,7 @@ html {
     font-size: 70px;
     font-weight: 800;
     text-align: center;
-    padding: 81px;
+    padding: 41px;
   }
 
   .right img {
@@ -231,7 +232,7 @@ html {
     flex-direction: column;
   }
 
-  .left{
+  .left {
     flex-direction: column-reverse !important;
   }
 }
